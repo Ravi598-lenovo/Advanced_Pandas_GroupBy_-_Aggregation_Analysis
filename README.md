@@ -94,4 +94,4 @@ By completing this project, you will learn:
 ### Option 2: Run Locally
 1. Clone the repository:
 ```bash
-git clone https://github.com/Ravi598-lenovo/advanced-pandas-groupby.git
+git clone https://github.com/Ravi598-lenovo/Advanced_Pandas_GroupBy_-_Aggregation_Analysis.git
