@@ -22,7 +22,7 @@ This project is designed to:
 ## 📊 Dataset Information
 
 - **Dataset:** Tips Dataset
-- **Source:** Seaborn built-in dataset
+- **Source:** Seaborn built-in Dataset
 - **Domain:** Restaurant / Business Analytics
 
 ### Dataset Features:
