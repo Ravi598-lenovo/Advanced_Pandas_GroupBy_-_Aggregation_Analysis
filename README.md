@@ -41,7 +41,7 @@ The dataset is loaded directly from a Python library, so **no manual download is
 - *Pandas*
 - *NumPy*
 - *Seaborn*
-- *Jupyter Notebook / Google Colab*
+- *Jupyter Notebook / VS Code*
 
 ---
 
